@@ -1,0 +1,23 @@
+{
+    "name": "TeamProfileGenerator",
+    "version": "1.0",
+    "description": "CLI that generates a team profile directory",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib",
+        "tests": "tests"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository":{
+        "type": "git",
+        "url": "https://github.com/cgouge93/TeamProfileGenerator"
+    },
+    "author": "Carly Gouge",
+    "license": "",
+    "dependencies": {
+        "inquirer": "^7.3.3",
+        "jest": "^26.6.3"
+    }
+}
