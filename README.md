@@ -10,4 +10,5 @@ After dependencies are installed, run node index.js in terminal to launch progra
 ![screenshot of command line prompts](/assets/img1.JPG)
 
 Newly created HTML file is in dist folder:
+
 ![screenshot of end of prompts](/assets/img2.JPG)
