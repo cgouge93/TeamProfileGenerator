@@ -12,3 +12,6 @@ After dependencies are installed, run node index.js in terminal to launch progra
 Newly created HTML file is in dist folder:
 
 ![screenshot of end of prompts](/assets/img2.JPG)
+
+## Demonstration
+[Link to video demo](https://drive.google.com/file/d/1iiniZ9LaoK51-VI7KRWiRnKAKMCc7Rcj/view)
